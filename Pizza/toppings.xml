@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<toppings>
+  <topping name="kukorica" price="200" id="1"></topping>
+  <topping name="sonka" price="250" id="2"></topping>
+  <topping name="gomba" price="150" id="3"></topping>
+  <topping name="szalámi" price="200" id="4"></topping>
+  <topping name="paprika" price="100" id="5"></topping>
+</toppings>
