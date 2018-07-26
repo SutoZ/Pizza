@@ -66,7 +66,7 @@ namespace Pizza
 
         public Order[] GetOrders()
         {
-            return orders.ToArray();//nem így kéne, de lusta vagyok XML-t parsolni
+            return orders.ToArray();
         }
 
         private void exportOrders()
