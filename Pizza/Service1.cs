@@ -36,7 +36,7 @@ namespace Pizza
             }
             catch (Exception e) { }
             orders.Add(new Order(pizzaid, address, price));
-            new Thread(new ThreadStart(exportOrders)); // hogy szálkezelés is legyen benne
+            new Thread(new ThreadStart(exportOrders));
             return price;
         }
 
